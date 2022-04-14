@@ -87,7 +87,10 @@
         "ytoken",
         "yusdc",
         "yweth",
-        "elfiverse"
+        "elfiverse", 
+        "twar", 
+        "twap",
+        "curr"
     ],
     "enabledLanguageIds": [
         "asciidoc",
